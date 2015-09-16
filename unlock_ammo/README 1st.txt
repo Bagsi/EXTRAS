@@ -1,7 +1,7 @@
 Vehicle unlock and remove ammo
 
 Download here: https://github.com/rscaptainjack/EXTRAS/unlock_ammo
-Updated for server version - v0.9.19SP2
+Updated for server version - v0.9.20
 
 These files will auto unlock any vehicle in a trader marker on server restart and remove ammo from any purchased vehicles or player owned vehicles if it has mounted guns.
 
